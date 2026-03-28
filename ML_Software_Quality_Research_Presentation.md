@@ -144,12 +144,33 @@ How can we establish comprehensive, measurable, and actionable software quality 
 | [ACM](https://doi.org/10.1145/3510003.3510049) | Paleyes, A., Urma, R. G., & Lawrence, N. D. | Challenges in deploying machine learning: A survey of case studies | Various ML models | Survey of deployment challenges relevant to LLM systems | ACM Computing Surveys 2022 |
 
 ### **Gap Analysis**
-Current literature lacks:
+
+#### **Current Literature Limitations:**
+Existing research lacks comprehensive integration of quality metrics across multiple dimensions:
+
+**A. Traditional ML Quality Metrics Coverage:**
+Current frameworks inadequately address:
+- **Classification Metrics**: Beyond basic accuracy - precision, recall, F1-score, confusion matrix analysis, ROC curves, AUC, log loss
+- **Model Calibration**: Confidence scoring, prediction uncertainty quantification
+
+**B. LLM-Specific Quality Measures Gap:**
+Limited research on LLM-tailored evaluation:
+- **Text Generation Metrics**: BLEU score, ROUGE score, METEOR, CIDEr for output quality assessment
+- **Semantic Similarity**: BERTScore, embedding similarity, cosine similarity for meaning preservation
+- **Human-Centric Evaluation**: Fluency, coherence, relevance, factual accuracy assessment frameworks
+
+**C. Integrated Quality Framework Deficiencies:**
 - Unified quality framework combining traditional software metrics with LLM-specific measures
 - Empirical validation of quality metrics in LLM deployment environments
 - Automated tooling for comprehensive LLM software quality assessment
 - Industry-validated best practices for LLM quality management
 - Standardized quality metrics for fine-tuned transformer models
 - Quality assessment frameworks for prompt engineering and few-shot learning
+- Real-time quality monitoring during LLM training and inference
 
+**D. Critical Research Gap - Metric Correlation Analysis:**
+**NOVEL CONTRIBUTION:** No existing research systematically establishes correlations between traditional classification metrics (accuracy, F1, precision, recall, AUC) and modern LLM evaluation measures (BLEU, ROUGE, BERTScore, semantic similarity, fluency, coherence). Our framework uniquely bridges these evaluation paradigms to determine:
+- Whether traditional classification performance can predict LLM generation quality
+- Statistical relationships between established ML metrics and emerging LLM assessment measures
+- Cross-paradigm evaluation efficiency for practical model selection and quality prediction
 ---
