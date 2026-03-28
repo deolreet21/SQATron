@@ -1,5 +1,5 @@
 # Software Quality Measures for Large Language Models
-## Research Presentation - Lab Session
+## Research Outline
 
 ### **Team SQATron**
 **Team Members:**
@@ -12,7 +12,7 @@
 
 ## Topic 1: Research Topic and Questions
 
-### **Research Topic**
+### **Research Title**
 **"Quality-Driven LLM Development: A Case Study of GPT-2 Fine-Tuning for Sentiment Classification"**
 
 ### **Primary Research Question**
