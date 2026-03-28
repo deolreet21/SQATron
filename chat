@@ -1,0 +1,160 @@
+Guys, I think we should choose “Quality Measures for Machine Learning Models.”
+
+This topic directly matches SQA because it focuses on testing, evaluation, and performance measurement. We can actually demonstrate metrics like accuracy, precision, recall, F1-score, and confusion matrix instead of just writing theory.
+
+It will be practical and structured, so completing sections like methodology, analysis, and findings will be easier. We can even train a simple model and show real results, which makes the assignment stronger and more original.
+
+Compared to AI bias, this topic is less complicated and lower risk for viva, but still technical and impressive. It’s a good balance between quality and ease.
+
+This research aims to evaluate how the quality of Machine Learning models can be effectively measured. The main research question is:
+
+“Is accuracy alone sufficient to evaluate the quality of a Machine Learning model, or are additional metrics like precision, recall, and F1-score necessary for reliable performance assessment?”
+
+The study will analyze different evaluation metrics and determine how they contribute to ensuring the reliability, correctness, and overall quality of ML systems from a Software Quality Assurance perspective.
+
+
+team name SQATron
+
+
+Link to  the paper 
+
+Author 
+
+Title 
+
+ML Model Used 
+
+Result/Conclusion of paper 
+
+Published in? 
+
+Timeline 
+
+(month, year) 
+
+ 
+
+ also one main task we have is to think of a unique title for our paper which is not taken
+
+
+
+ 
+we can make our research more specific to LLMs as well rather than doing it vaguely for general ml models....
+
+An LLM is actually a type of ML model designed specifically for understanding and generating human language. 
+ 
+
+
+[9:46 PM, 16/3/2026] HeenuReet Kaur Deol: this we we can not only include Classification 
+Accuracy
+Precision
+Recall (Sensitivity)
+F1 Score
+Confusion Matrix
+ROC Curve
+AUC (Area Under Curve)
+Log Loss
+
+
+Regression
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+R² Score (Coefficient of Determination)
+Mean Absolute Percentage Error (MAPE) 
+
+But also other LLM related measures like
+B. Text Generation / Translation Metrics
+BLEU Score (Bilingual Evaluation Understudy)
+ROUGE Score (Recall-Oriented Understudy for Gisting Evaluation)
+METEOR
+CIDEr
+C. Semantic Similarity Metrics
+BERTScore
+Embedding Similarity
+Cosine Similarity
+D. Human Evaluation Metrics
+Fluency
+Coherence
+Relevance
+Factual Accuracy
+[9:48 PM, 16/3/2026] HeenuReet Kaur Deol: Chat GPT say 
+Yes 👍 You can implement a very simple LLM experiment with quality metric plotting using Python.
+A good beginner approach is to use a pretrained small language model from the Hugging Face Transformers library and evaluate it using Perplexity, which is a common LLM quality metric.
+
+Yes ✅ — the simple LLM experiment I showed you can be completely FREE if you run it the right way.
+[9:48 PM, 16/3/2026] HeenuReet Kaur Deol: Example setup (free):
+Run the code in Google Colab free tier
+Use open-source libraries like Hugging Face Transformers
+Load a small pretrained model such as GPT-2 or DistilGPT2
+Evaluate metrics like Perplexity and plot with Matplotlib
+This costs ₹0 because:
+The models are free
+The library is open-source
+Colab provides free CPU/GPU for small experiments
+ 
+
+ In the lab session each group will present your assignment progress in 5 minutes. You are expected to prepare a presentation or pdf document containing 3 slides/ sheets
+1. Details of the topic and question that you wish to study or answer.
+2. Proposed methodology.
+3. Literature survey published papers with their citation) around your study.
+This document must be submitted on a further date which will be announced. It will be a combined session for section A and B for 2025 2Y.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
