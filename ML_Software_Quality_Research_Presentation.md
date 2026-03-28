@@ -153,7 +153,3 @@ Current literature lacks:
 - Quality assessment frameworks for prompt engineering and few-shot learning
 
 ---
-
-
-**Total Presentation Time: 5 minutes**
-**Recommended Distribution: 1.5 min per Topic + 0.5 min for questions**
